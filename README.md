@@ -3,13 +3,13 @@
 Este é o meu perfil do GitHub! Sou estudante de engenharia e apaixonado por tecnologia.  
 
 ## Sobre Mim  
-- **Desenvolvedor de Software**: Experiente em diversas tecnologias, incluindo Python, C++ e Sistemas Embarcados.  
+- **Desenvolvedor de Software**: Experiente em diversas tecnologias, incluindo Python, R, C++ e Sistemas Embarcados.  
 - **Localização**: Rio de Janeiro, Brasil.  
-- **Interesses**: Machine Learning (IA).  
+- **Interesses**: Machine Learning (IA) e Ciência de dados.  
 - **Especializações**: Machine Learning, IA e Sistemas Embarcados.  
 
 ## Tecnologias e Ferramentas  
-- **Back-End**: Python, C++  
+- **Back-End**: Python, C++, R 
 - **Machine Learning**: Experiente no treinamento de modelos, análise de dados. 
 - **Cloud**: AWS  
 - **DevOps**: Docker, integração e automação de workflows.  
